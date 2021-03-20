@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /photography/
+title: "Photography"
 gallery:
   - url: https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/JohnGai_JohnGai-R2-013-5.jpg
     image_path: https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/JohnGai_JohnGai-R2-013-5.jpg
