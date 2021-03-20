@@ -1,6 +1,10 @@
 main:
   - title: "Posts"
     url: /posts/
+    - title: "Teaching"
+    url: /teaching/
+    - title: "Photography"
+    url: /photography/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
