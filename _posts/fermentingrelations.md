@@ -32,45 +32,4 @@ Making-do with this assemblage, amassing both the starters’ histories and the 
 
 This agitation to concepts of the human and nonhuman as boundaried is a funda-mental reconfiguration, an always-developing spatial realm of confusion to where our bodies might begin and end amongst the microbial, amongst the virus (see Mathew’s piece in the previous section). When you build on shifting memories and speculative recommendations, always looking for potential adjustments for better growth, and never knowing for sure if the starter is pleased, you give room to biological transitions and affective capacities. An affective potential arises in the overlooked richness that comes with shifting privileges over the anthropocentric narrative (Bennett 2001) and towards the histories and labors held in all micro-biomes—human, baker, dough, or otherwise. Slowly, you learn how to handle the sticky mass, adding more flour when needed, feeling for shorter intervals of kneading when the dough is wet, ditching the timer, instead adding a sample taste to your sensual/temporal map.
 
-<figure>
-  <img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104211.png" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
-</figure>
-
-<h3>Mold has grown on top of my starter. I skim it off and stir in a handful of fresh flour to feed it. No time to worry, like a wound for something I must bake this week to get my mind and hands into something.</h3>
-
-Sourdough bread is a blending—a chimera of sorts—that thrives on a necessary contamination, a necessary vulnerability. In this sense, experimenting with the concept of contamination during fermentation adds another potential to the DIY ethics of bio-art, a potential of risk, of anxiety, and of fear that attaches itself to the objects at hand: microbes, viruses, disease. Amidst the global pandemic, fear has been established through the declaration of boundaries as affective designa-tions that—in order to be reproduced or reconfigured—require openings, leaks, and floods (Ahmed 2004). These shifting configurations are met with genre flailing (Berlant 2018). We rush to make sense of the anxieties and insecurities surrounding Zoom privacy leaks, of a favorite celebrity catching COVID, of yet another infectious cruise ship in limbo. The “pandemic imaginary” of fear continuously expands and time blurs (see Mathew’s piece in the previous section). In contrast, the mandate to stay at home is pitched as a patriotic and active duty against border anxieties during crisis, against any unplanned cross-contamination with an invisible other. Working with the starter gives us unconscious moments of breaking these boundaries of constructed fear—daily repetition with the fer-menting starter is risky but also sediments in daily life as a regularity. To fully become a body, we experiment with the limits and capacities of the starter as it experiments with us. Bits of family members, strangers, animalia, and ourselves are devoured through the daily bread. In 2011, exploring the limits of infection, a woman used her own vaginal yeast as the active agent in a sourdough starter (Rees 2015). In 2019, Seamus Blackley (creator of Xbox) extracted ancient yeast (found embedded in an Egyptian clay bowl) to develop a 4,000-year-old starter (Machemer 2006). These risks, in exploring the limits of sourdough baking as a bio-art, also extend the limits of what it means to exist with a body amongst other affective things. 
-
-Is getting take-out safe? Should I use plastic face shields or cloth masks? Can singing project aerosols further than speaking? Risk follows an attunement with all bodies that might come in contact with—and create potential transformations through—our objects, human or not. Between one another, we are interfaced with speculative risks (DIY masks, homemade hand-sanitizer) treading in active futures of what could be but also in what could kill (see Mathew’s piece in the previous section). The microbial elements that make sharing our bread poten-tially dangerous—unseen instigators of fear—are the same agents that have many touting sourdough as a “superfood” well-suited to COVID-19, as the sourdough microbiome adds infection-fighting healthy flora to the gut (Counihan & Van Esterikn 2012). Similarly, during the 1854 Cholera outbreak, those who drank more beer had a better chance of fighting off the virus; the microbiome found in their gut was stronger (Dunn 2018). As uncertainty about the spread of COV-ID-19 circulates, repairing and refocusing our conceptions of ‘the biological’ is urgently important. As paranoia fuels shared narratives, extractive powers hope to capitalize off our widespread isolation.
-
-<h3>Another repetition, another day in quarantine. Today, I nervously open its top, exposing it, always surprised by the ‘pop!’ sound that it makes, always waiting for the final explosion to end the experiment all together.</h3>
-
-Working with sourdough is an active realm of attuning to underlying forces, a trust in tasting and eating bits of shared histories, fears, and desires. On this intimate level, being aware that we are never alone and never have been—due to the microbiome that pervades us—can help to nuance responsibilities toward a productive politics of care, one that requires a reevaluation of our nonhuman counterparts. To do this requires that we consider the “behind the scenes” labors of our everyday life as an ethics of care (see Mathew’s piece in the previous section). This thread hopes to push the trend of sourdough bread baking further, to create/to offer/to present an active force against the fear of the microscopic and the food/sustenance shortages outside of us. Time spent with a starter’s microbiome can get snagged on openings, a potential for peeking inside our infrastructure, an infrastructure that is increasingly black-boxed. We must stay with these forms of interruption in fermentation, a potential to uncover knowledges that disregard borders during a time when so much is being closed off or shut down.
-
-<h3>References</h3>
-
-Ahmed, S. (2004). Affective Economies. Social Text, 22 (2), pp. 117-139.Arnold,  C.  (2020).  ‘Tsunami’  Of  Evictions  Feared  As  Extra  $600  Un-employment  Payments  End. NPR. Available  at:  https://www.npr.org/2020/07/24/894996949/concern-over-evictions-rise-as-covid-19-un-employment-benefits-expire [Accessed July 23, 2020].
-
-Bennett, J. (2001). The Enchantment of Modern Life: Attachments, Crossings, and Ethics. Princeton: Princeton University Press.
-
-Berlant, L. (2018). Genre Flailing. Capacious: Journal of Emerging Affect Inquiry,1 (2), pp. 156-162.
-
-Counihan, C., & Van Esterik, P. (eds.). (2012). Food and Culture: A Reader. New York & London: Routledge.
-
-Dunn, R. (2018). Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live. New York: Basic Books.
-
-Hey, M. (2017). Making/Doing/Thinking Fermentation: Working with Plural Knowledges in Research-Creation. Commposite, 19 (3), pp. 79-95.
-
-Jaafari, D. J. (2020). Health Care Workers Show Up at ‘Reopen PA’ Protest to Urge People to Stay Home. WHYY. Available at: https://whyy.org/articles/health-care-workers-show-up-at-reopen-pa-protest-to-urge-people-to-stay-home/ [Accessed July 22, 2020].
-
-Machemer, T. (2020). The World’s Oldest Leavened Bread Is Rising Again. Smithsonian Magazine. Available at: https://www.smithsonianmag.com/smart-news/worlds-oldest-leavened-bread-rising-again-180974605/ [Ac-cessed July 7, 2020].
-
-Makalintal, B. (2020). Where Is Everyone Getting All of This Sourdough Starter All of a Sudden? Vice. Available at: https://www.vice.com/en_us/article/pke4dm/where-is-everyone-getting-all-of-this-sourdough-starter-all-of-a-sudden [Accessed July 3, 2020].
-
-McCarron, M. (2020). So Everyone’s Googling ‘Bread’ Now. Eater. Available at: https://www.eater.com/2020/3/25/21194467/bread-tops-google-trends-searching-for-recipes [Accessed June 13, 2020].
-
-Rees, A. (2015). The Woman Who Made Sourdough Bread Using Yeast From Her Vagina Just Ate The Bread. Cosmopolitan. Available at: https://www.cosmopolitan.com/sex-love/news/a49894/yeast-infection-sourdough-bread/ [Accessed June 29, 2020].
-
-Reese, A. T., Madden, A. A., Joossens, M., Lacaze, G., & Dunn, R. R. (2020). Influences of Ingredients and Bakers on the Bacteria and Fungi in Sour-dough Starters and Bread. Msphere, 5(1). Available at: https://msphere.asm.org/content/5/1/e00950-19#fn-group-1
-
-Sutton, D. (2006). Cooking Skill, the Senses, and Memory: The Fate of Practical Knowledge. Sensible Objects: Colonialism, Museums and Material Culture, 5 (1), pp. 87-117.
+Read more ... 
