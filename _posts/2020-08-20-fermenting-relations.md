@@ -8,6 +8,9 @@ tags:
   - update
 ---
 
+The following is a piece written during the COVID-19 pandemic and published in the issue of Capacious journal. 
+<a href="http://capaciousjournal.com/issue/vol-2-nos-1-2-articles/capacious-editors-preface-care-is-a-defiant-act.pdf" target="_blank">PDF.</a>
+
 <figure>
   <img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104139.png">
   <figcaption>Jean-Luc Gallic, 2020</figcaption>
