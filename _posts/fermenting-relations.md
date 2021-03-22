@@ -8,7 +8,11 @@ tags:
   - update
 ---
 
-{% include figure image_path="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104139.png" alt="this is a placeholder image" caption="Jean-Luc Gallic, 2020" %}
+<figure>
+  <img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104211.png" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
+
 
 <h3>Lately, I find myself sharing space with a newly-formed co-inhabitant. Just out of reach from any direct sunlight, we cross-contaminate and intimately touch. Here lie bubbling connections, violent fermentations, and sticky com-pounds. Usually, I never fully get the culture off my fingers—instead I let it dry and cake on for the next handwashing. Over the past few weeks, the gooey culture seems healthier, stronger, and more alive in my presence. Its ultimate fate guided by my anxieties and excitements while living with the pandemic.</h3>
 
