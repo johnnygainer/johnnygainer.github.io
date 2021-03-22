@@ -1,11 +1,11 @@
 ---
 title: "Fermenting Relations"
 date: 2019-04-18T15:34:30-04:00
+classes: wide
 categories:
   - blog
 tags:
   - update
-classes: wide
 ---
 
 {% include figure image_path="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104139.png" alt="this is a placeholder image" caption="Jean-Luc Gallic, 2020" %}
