@@ -12,4 +12,4 @@ Film photography, specifically film photography, is also displayed here.
 
 e: johnnypgainer(at)gmail.com
 
-{% include figure image_path="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/KICX1779.png" alt="this is a placeholder image" caption="Jean-Luc Gallic, 2020" %}
+{% include figure image_path="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/KICX1779.png" alt="this is a placeholder image" caption="~" %}
