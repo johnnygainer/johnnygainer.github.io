@@ -32,8 +32,6 @@ Making-do with this assemblage, amassing both the starters’ histories and the 
 
 This agitation to concepts of the human and nonhuman as boundaried is a funda-mental reconfiguration, an always-developing spatial realm of confusion to where our bodies might begin and end amongst the microbial, amongst the virus (see Mathew’s piece in the previous section). When you build on shifting memories and speculative recommendations, always looking for potential adjustments for better growth, and never knowing for sure if the starter is pleased, you give room to biological transitions and affective capacities. An affective potential arises in the overlooked richness that comes with shifting privileges over the anthropocentric narrative (Bennett 2001) and towards the histories and labors held in all micro-biomes—human, baker, dough, or otherwise. Slowly, you learn how to handle the sticky mass, adding more flour when needed, feeling for shorter intervals of kneading when the dough is wet, ditching the timer, instead adding a sample taste to your sensual/temporal map.
 
-Read more ... 
-
 <figure>
   <img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104211.png" alt="this is a placeholder image">
   <figcaption>Jean-Luc Gallic, 2020</figcaption>
