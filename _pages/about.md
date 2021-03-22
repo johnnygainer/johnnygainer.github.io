@@ -11,3 +11,5 @@ All things old, forgotten, or simply looked-over in relation to communication, m
 Film photography, specifically film photography, is also displayed here.
 
 e: johnnypgainer(at)gmail.com
+
+https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/KICX1779.png
