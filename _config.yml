@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "johnny gainer"
   avatar : "https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/me.jpg"
-  bio    : "Teaching and writing at Villanova University"
+  bio    : "teaching//writing//musing"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
