@@ -1,21 +1,16 @@
 ---
 title: "Fermenting Relations"
 date: 2020-08-10T15:34:30-04:00
-excerpt_separator: <!--more-->
+classes: wide
 categories:
   - blog
 tags:
   - update
 ---
 
-Excerpt with multiple paragraphs
-
-Here's another paragraph in the excerpt.
-<!--more-->
-Out-of-excerpt
 <figure>
-  <img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104211.png" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
+  <img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104139.png">
+  <figcaption>Jean-Luc Gallic, 2020</figcaption>
 </figure>
 
 
@@ -41,7 +36,7 @@ Read more ...
 
 <figure>
   <img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/DeepinScreenshot_select-area_20210322104211.png" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
+  <figcaption>Jean-Luc Gallic, 2020</figcaption>
 </figure>
 
 <h3>Mold has grown on top of my starter. I skim it off and stir in a handful of fresh flour to feed it. No time to worry, like a wound for something I must bake this week to get my mind and hands into something.</h3>
