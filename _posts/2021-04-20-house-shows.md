@@ -1,5 +1,5 @@
 ---
-title: "Looking on Cramped, Sweaty Spaces of Music"
+title: "Looking Back on Cramped, Sweaty Swells of Music"
 date: 2021-04-20T15:34:30-04:00
 classes: wide
 categories:
