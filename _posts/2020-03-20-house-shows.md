@@ -1,5 +1,5 @@
 ---
-title: " Revisiting Dead Drops as Public Anarchival Events"
+title: "Revisiting Dead Drops as Public Anarchival Events"
 date: 2021-04-20T15:34:30-04:00
 classes: wide
 categories:
