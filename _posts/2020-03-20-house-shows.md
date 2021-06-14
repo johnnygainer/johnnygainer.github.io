@@ -10,4 +10,4 @@ tags:
 
 This discussion is a part of a book launch for Imbricate! Press taking place June 30th 2021
 
-https://johnnygainer.bearblog.dev/dead-drops/
+[Link](https://johnnygainer.bearblog.dev/dead-drops/)
