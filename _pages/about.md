@@ -4,12 +4,16 @@ title: "About"
 classes: wide
 ---
 
-Johnny Gainer is a teacher and researcher at Villanova University focusing on the intersection of technology, engineering, and philosophy. 
+Johnny gainer is interested in non-human/human relations and bubbling and hybrid forms of media, communication, and affect. Writing and musings on such topics can be found above under [Blog.](https://johnnygainer.bearblog.dev/blog/)
 
-All things old, forgotten, or simply looked-over in relation to communication, media, and culture are of interest. 
+He is a [professor](https://villanova.academia.edu/JGainer) who both spring and fall semester teaches a [course](https://johnnygainer.github.io/teaching/) to engineering students at Villanova University where they examine the intersection of communication and science
 
-Film photography, specifically film photography, is also displayed here.
+He is also an editor for [Capacious Journal for Emerging Affect Inquiry](http://capaciousjournal.com/)
+and [Imbricate! Press](http://imbricate.press/)
 
-e: johnnypgainer(at)gmail.com
+Photography can be found on his [instagram](https://www.instagram.com/johnny_gainer/)
 
-{% include figure image_path="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/KICX1779.png" alt="this is a placeholder image" caption="~" %}
+johnnypgainer(at)gmail.com
+
+<img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/KICX0088.png" title="A cute kitten" width="450" height="600"
+/>
