@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "johnny gainer"
   avatar : "https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/KICX0088.png"
-  bio    : "Johnny gainer is a professor and researcher at Villanova University and an editor for Capacious Journal for Emerging Affect Inquiry and Imbricate! Press"
+  bio    : "Johnny gainer is a professor and researcher at Villanova University and an editor for [Capacious Journal for Emerging Affect Inquiry](http://capaciousjournal.com/) and Imbricate! Press"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
