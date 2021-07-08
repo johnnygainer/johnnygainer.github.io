@@ -11,6 +11,7 @@ tags:
 **This discussion is a part of a book launch for Imbricate! Press taking place June 30th 2021**
 
 ![](https://deaddrops.com/wp-content/uploads/2010/11/deaddrops1.jpg)
+Image Source: https://deaddrops.com/wp-content/uploads/2010/11/deaddrops1.jpg
 
 In short, this response hopes to engage with the book Affects, Interfaces, and Events as a set of tools that may help in proposing some of my own practices of offline networking and sense-making as a way of staying, to quote from Erin and Brian’s interview, “sensitive to the ways in which we have become habituated to mediating surfaces that promise to lead us where we need to go.” 
 
