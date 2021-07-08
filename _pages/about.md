@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 ---
 
-Johnny gainer is interested in non-human/human relations and bubbling and hybrid forms of media, communication, and affect. Writing and musings on such topics can be found above under [Blog.](https://johnnygainer.bearblog.dev/blog/)
+Johnny gainer is interested in non-human/human relations and bubbling and hybrid forms of media, communication, and affect. Writing and musings on such topics can be found here and on my [blog.](https://johnnygainer.bearblog.dev/blog/)
 
 He is a [professor](https://villanova.academia.edu/JGainer) who both spring and fall semester teaches a [course](https://johnnygainer.github.io/teaching/) to engineering students at Villanova University where they examine the intersection of communication and science
 
@@ -14,6 +14,3 @@ and [Imbricate! Press](http://imbricate.press/)
 Photography can be found on his [instagram](https://www.instagram.com/johnny_gainer/)
 
 johnnypgainer(at)gmail.com
-
-<img src="https://raw.githubusercontent.com/johnnygainer/johnnygainer.github.io/master/assets/images/KICX0088.png" title="A cute kitten" width="450" height="600"
-/>
